@@ -1,3 +1,6 @@
+
+![Capture](https://github.com/ilyaasomar/nextauth/assets/48979155/f2de667f-c27e-489c-80aa-f33492337b01)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
